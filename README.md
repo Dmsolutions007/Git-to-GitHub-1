@@ -1,9 +1,5 @@
 # Welcome to my first Repo
-Sure, here is a welcome post for your first repository:
 
-
-
-# Welcome to My First Repo!
 
 Hello everyone!
 
